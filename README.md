@@ -19,3 +19,4 @@ Tu run the code, execute each file from a Python IDE.
 ## Additional Files
   - All necessary input data is included in the repository.
   - The code to generate the radar chart is provided in the repository.
+  - The code to generate Figure 5 is included in BM4_EnergyArbitrage.ipynb and BM4_Peakshaving.ipynb. 
